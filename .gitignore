@@ -1,2 +1,6 @@
 *.o
 *.d
+hotfloorplan
+hotspot
+libhotspot.a
+
